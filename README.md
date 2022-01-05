@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HireDaniel
-- 👀 I’m interested in webdesign, python, games, music
+- 👀 I’m interested in webdesign, python, games and music
 - 🌱 I’m currently learning CS and webdesign
 - 💞️ I’m looking to collaborate on social coding projects or real funny stuff
 - 📫 How to reach me HireDanielS@protonmail.com
